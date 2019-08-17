@@ -8,12 +8,12 @@ https://vimeo.com/190665110
 
 # HARDWARE.
 - RaspberryPi B+
-- Camara module for raspberry 
+- Camera module for raspberry 
 - Micro sd cards  
 - Arduino
 - Celda bacteriana
 - Arreglo de relays
-- Lamparas
+- Lámparas
 - MOTU
 - 8 loudspeakers
 
@@ -27,7 +27,7 @@ https://vimeo.com/190665110
 1 - Instalar OpenCV:
 http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/:
 
-2 - Nombrar la raspberry como raspi1.local modificando su nombre.
+2 - Nombrar la raspberry como `raspi1.local` modificando su nombre.
 
 > ssh pi@raspi1.local
 > ssh pi@raspi2.local
